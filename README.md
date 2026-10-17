@@ -105,3 +105,21 @@ Legal intelligence · Python, LangChain, Grounded RAG, OCR, vector database, cry
 | --- | --- |
 | Unstructured evidence in. Grounded RAG and OCR. | **11** standardized statutory documents |
 | Cryptographic signatures and an event-sourced audit log. | Integrity and a full history on every document |
+
+## 05 · PODIUMS
+
+<p align="center">
+  <img src="assets/05-podiums.gif" alt="Stage 05. Hackathon high scores." width="100%">
+</p>
+
+| Arena | Result | Stake |
+| --- | --- | --- |
+| **Statathon 2025** · MoSPI | 1st | ₹1,00,000 · 5,000+ |
+| **HacKP 2026** · Kerala Police Cyberdome | Winner | ₹5,00,000 · 12,000+ |
+| **CSIC Innovation Challenge 1.0** · MeitY | Runner-up | ₹80,000 · 3,000+ |
+| **HackSetu** · Amity University, MP | 1st | ₹30,000 · 1,000+ global |
+| **Hack-A-Thon 1.0** · St. Peter's, Hyderabad | 2nd | ₹20,000 · 2,000+ |
+| **SUVIDHA 2026** · C-DAC under MeitY | Finalist · Top 10 | National field |
+| **CYBERHACKATHON v4.0** · Chennai Police Cyber Crime Cell | Finalist · Top 20 | 800+ teams |
+
+**₹7,30,000** from the five rooms that paid.
