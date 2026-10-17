@@ -18,3 +18,35 @@ Agentic AI and DevOps. B.E. Computer Science and Engineering at Chennai Institut
 | **Phone** | +91 6382130143 |
 | **GitHub** | [SanjayS-007](https://github.com/SanjayS-007) |
 | **LinkedIn** | Sanjay S |
+
+## 02 · NOBODY ASKED
+
+<p align="center">
+  <a href="https://sahayak360-mvp.vercel.app/">
+    <img src="assets/02-quest.gif" alt="Stage 02. Sahayak 360. Nobody asked. Built it anyway." width="100%">
+  </a>
+</p>
+
+**Sahayak 360.** A teacher photographs a paper test. About four seconds later the student gets a live quiz on the root gap, not the chapter they just failed. Nobody assigned it.
+
+[Play the build](https://sahayak360-mvp.vercel.app/) · [Source](https://github.com/SanjayS-007/sahayak360-mvp)
+
+| Step | What it does |
+| --- | --- |
+| **Photo** | Gemini reads the sheet. OpenCV cleans it first. |
+| **Contract** | Every channel lands in one validated score record. |
+| **BKT** | Mastery is a probability, not a percent. |
+| **Root** | Neo4j walks prerequisites to the real gap. |
+| **Quiz** | WebSocket puts the drill on the student screen. |
+
+<p align="center">
+  <img src="assets/02-decision.gif" alt="Hardest call. Rejected a percent score. Chose BKT and the root prerequisite." width="100%">
+</p>
+
+**Hardest call.** A 60% can be two lucky guesses. More practice on the failed chapter treats the symptom.
+
+| | Rejected | Chosen |
+| --- | --- | --- |
+| **Score** | Percent correct | Bayesian Knowledge Tracing |
+| **Drill** | The chapter on the paper | The weakest prerequisite |
+| **Who decides** | The language model | The math. Gemini only reads. |
