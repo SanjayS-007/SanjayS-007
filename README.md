@@ -1,174 +1,26 @@
 <p align="center">
-  <img src="assets/01-title.gif" alt="Cabinet 01. Sanjay S. Press start." width="100%">
+  <img src="assets/01-title.gif" alt="Sanjay S — press start" width="100%">
 </p>
-
-## 01 · PLAYER
-
-**SANJAY S**
-
-Agentic AI and DevOps. B.E. Computer Science and Engineering at Chennai Institute of Technology.
-
-| | |
-| --- | --- |
-| **Base** | Chennai Institute of Technology, Chennai |
-| **Program** | B.E. Computer Science and Engineering |
-| **Term** | Aug 2024 — May 2028 |
-| **CGPA** | 8.18 / 10 |
-| **Mail** | [sanjayspmprmuruga02@gmail.com](mailto:sanjayspmprmuruga02@gmail.com) |
-| **Phone** | +91 6382130143 |
-| **GitHub** | [SanjayS-007](https://github.com/SanjayS-007) |
-| **LinkedIn** | Sanjay S |
-
-## 02 · NOBODY ASKED
 
 <p align="center">
   <a href="https://sahayak360-mvp.vercel.app/">
     <img src="assets/02-quest.gif" alt="Stage 02. Sahayak 360. Nobody asked. Built it anyway." width="100%">
   </a>
+  <a href="https://sahayak360-mvp.vercel.app/">
+    <img src="assets/02-decision.gif" alt="Hardest call. Rejected a percent score and more practice on the failed chapter. Chose BKT and a quiz on the root prerequisite." width="100%">
+  </a>
 </p>
-
-**Sahayak 360.** A teacher photographs a paper test. About four seconds later the student gets a live quiz on the root gap, not the chapter they just failed. Nobody assigned it.
-
-[Play the build](https://sahayak360-mvp.vercel.app/) · [Source](https://github.com/SanjayS-007/sahayak360-mvp)
-
-| Step | What it does |
-| --- | --- |
-| **Photo** | Gemini reads the sheet. OpenCV cleans it first. |
-| **Contract** | Every channel lands in one validated score record. |
-| **BKT** | Mastery is a probability, not a percent. |
-| **Root** | Neo4j walks prerequisites to the real gap. |
-| **Quiz** | WebSocket puts the drill on the student screen. |
 
 <p align="center">
-  <img src="assets/02-decision.gif" alt="Hardest call. Rejected a percent score. Chose BKT and the root prerequisite." width="100%">
+  <a href="https://sahayak360-mvp.vercel.app/"><img alt="Play Sahayak 360" src="https://img.shields.io/badge/PLAY-SAHAYAK_360-50ff5a?style=for-the-badge&labelColor=040604"></a>
+  &nbsp;
+  <a href="https://github.com/SanjayS-007/sahayak360-mvp"><img alt="Sahayak 360 source" src="https://img.shields.io/badge/SOURCE-GITHUB-ffba28?style=for-the-badge&labelColor=040604"></a>
 </p>
-
-**Hardest call.** A 60% can be two lucky guesses. More practice on the failed chapter treats the symptom.
-
-| | Rejected | Chosen |
-| --- | --- | --- |
-| **Score** | Percent correct | Bayesian Knowledge Tracing |
-| **Drill** | The chapter on the paper | The weakest prerequisite |
-| **Who decides** | The language model | The math. Gemini only reads. |
-
-## 03 · FIELD RECORD
 
 <p align="center">
-  <img src="assets/03-work.gif" alt="Stage 03. Cognizant and Zoho Site24x7." width="100%">
+  <img src="assets/03-scores.gif" alt="High scores. Cognizant, Zoho, BharatStat, HacKP, LeetCode Knight." width="100%">
+  <img src="assets/04-player.gif" alt="Player meters. LeetCode Knight, top 2.24 percent, CodeChef 3 star, CGPA 8.18." width="100%">
+  <a href="mailto:sanjayspmprmuruga02@gmail.com">
+    <img src="assets/05-continue.gif" alt="Continue. sanjayspmprmuruga02@gmail.com" width="100%">
+  </a>
 </p>
-
-### Cognizant Technology Solutions
-Agentic AI and DevOps Intern · Apr 2026 — Sep 2026
-
-| Move | Result |
-| --- | --- |
-| Multi-agent workflows on LangChain, LangGraph, RAG, LLMs, and LiteLLM. Routing, observability, telemetry. | LLM inference cost **−30%** |
-| Self-managed Azure platform. Pipelines, virtual machines, serverless Functions. CI/CD automated. | Deploy time **−45%**. Manual effort **−60%** |
-| AI services in Docker and Kubernetes. | Same runtime on every release |
-
-### Zoho Corporation, Site24x7
-Monitoring and DevOps Engineer Intern · Oct 2025 — Dec 2025
-
-| Move | Result |
-| --- | --- |
-| Python `.pyz` agent packages for distributed monitoring. | Release preparation **−35%** |
-| Profiled execution, telemetry, and metric collection. Cut redundant work. | Monitoring latency **−30%**. Customer compute **−25%** |
-| Execution-path debugging across heavy IT estates. | Diagnostic troubleshooting time **−40%** |
-
-## 04 · BUILDS
-
-<p align="center">
-  <img src="assets/04-builds.gif" alt="Stage 04. BharatStat, forensic platform, CrimeGPT." width="100%">
-</p>
-
-### BharatStat
-Agentic statistical reports · Next.js, FastAPI, LangGraph, PostgreSQL, Redis, Neo4j
-
-| Move | Result |
-| --- | --- |
-| 5-stage semantic pipeline over CSV and XLSX. | Cross-format processing **+65%** |
-| 6-stage document pipeline. Figures out of dense PDF templates, publication-ready reports out. | Manual preparation **−70%** |
-| Government of India funding for the architecture. Deployed. | **₹1,00,000** |
-
-### Forensic intelligence
-Cryptographically enforced · Drain3, Isolation Forest, DuckDB, Parquet, LLMs
-
-| Move | Result |
-| --- | --- |
-| Autonomous workflow. Log parsing, anomaly detection, threat identification. | **4×** evidence clusters |
-| Immutable evidence pipeline. Just-in-time tokens. Explainable calls. | Anomaly F1 **94%**. Analysis time **−55%** |
-
-### CrimeGPT
-Legal intelligence · Python, LangChain, Grounded RAG, OCR, vector database, cryptography
-
-| Move | Result |
-| --- | --- |
-| Unstructured evidence in. Grounded RAG and OCR. | **11** standardized statutory documents |
-| Cryptographic signatures and an event-sourced audit log. | Integrity and a full history on every document |
-
-## 05 · PODIUMS
-
-<p align="center">
-  <img src="assets/05-podiums.gif" alt="Stage 05. Hackathon high scores." width="100%">
-</p>
-
-| Arena | Result | Stake |
-| --- | --- | --- |
-| **Statathon 2025** · MoSPI | 1st | ₹1,00,000 · 5,000+ |
-| **HacKP 2026** · Kerala Police Cyberdome | Winner | ₹5,00,000 · 12,000+ |
-| **CSIC Innovation Challenge 1.0** · MeitY | Runner-up | ₹80,000 · 3,000+ |
-| **HackSetu** · Amity University, MP | 1st | ₹30,000 · 1,000+ global |
-| **Hack-A-Thon 1.0** · St. Peter's, Hyderabad | 2nd | ₹20,000 · 2,000+ |
-| **SUVIDHA 2026** · C-DAC under MeitY | Finalist · Top 10 | National field |
-| **CYBERHACKATHON v4.0** · Chennai Police Cyber Crime Cell | Finalist · Top 20 | 800+ teams |
-
-**₹7,30,000** from the five rooms that paid.
-
-## 06 · ARENA
-
-<p align="center">
-  <img src="assets/06-arena.gif" alt="Stage 06. LeetCode Knight, CodeChef 3 star, Codeforces Pupil." width="100%">
-</p>
-
-| Platform | Rank | Signal |
-| --- | --- | --- |
-| **LeetCode** | Knight | Max rating **2025** · top **2.24%** globally · **1100+** DSA problems |
-| **CodeChef** | 3 Star | Max rating **1410** |
-| **Codeforces** | Pupil | Max rating **1020** |
-
-## 07 · LOADOUT
-
-<p align="center">
-  <img src="assets/07-loadout.gif" alt="Stage 07. Skill loadout." width="100%">
-</p>
-
-| Slot | Gear |
-| --- | --- |
-| **Languages** | Python, C++, C, SQL, TypeScript, JavaScript |
-| **Web** | HTML5, CSS, React.js, Next.js, Flask, FastAPI, Node.js |
-| **AI** | PyTorch, Scikit-learn, OpenCV, NLP, LLMs, RAG, LangChain, Agentic AI, vector databases, GenAI |
-| **Data** | PostgreSQL, MongoDB, Redis, Cassandra, Neo4j, SQLite, Apache Spark, Hadoop |
-| **Systems** | Data structures, algorithms, OOP, DBMS, OS, LLD, HLD, computer networks, microservices, API design |
-| **Cloud** | AWS, Azure, Docker, Kubernetes, CI/CD, GitHub Actions, Linux, Grafana, Git, Postman, Cursor, Claude |
-
-## 08 · BADGES
-
-<p align="center">
-  <img src="assets/08-badges.gif" alt="Stage 08. Certifications and field work." width="100%">
-</p>
-
-### Certified
-
-| Badge | Detail |
-| --- | --- |
-| **AWS Certified Cloud Practitioner** | Amazon Web Services |
-| **Cisco CCNA** | Introduction to Networking |
-| **NPTEL** | Data Science with Python · Elite – Silver |
-| **NPTEL** | Introduction to IoT and Digital Transformation |
-
-### On the ground
-
-| Role | What moved |
-| --- | --- |
-| **Organiser and Mentor, Hack Fusion Hackathon** | Scaled the CSE department hackathon to **1,000+** participants. Mar 2026. |
-| **DSA Bootcamp Instructor** | Free Data Structures and Algorithms for junior students across **5 months**. 2025. |
