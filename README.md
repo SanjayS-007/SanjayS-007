@@ -74,3 +74,34 @@ Monitoring and DevOps Engineer Intern · Oct 2025 — Dec 2025
 | Python `.pyz` agent packages for distributed monitoring. | Release preparation **−35%** |
 | Profiled execution, telemetry, and metric collection. Cut redundant work. | Monitoring latency **−30%**. Customer compute **−25%** |
 | Execution-path debugging across heavy IT estates. | Diagnostic troubleshooting time **−40%** |
+
+## 04 · BUILDS
+
+<p align="center">
+  <img src="assets/04-builds.gif" alt="Stage 04. BharatStat, forensic platform, CrimeGPT." width="100%">
+</p>
+
+### BharatStat
+Agentic statistical reports · Next.js, FastAPI, LangGraph, PostgreSQL, Redis, Neo4j
+
+| Move | Result |
+| --- | --- |
+| 5-stage semantic pipeline over CSV and XLSX. | Cross-format processing **+65%** |
+| 6-stage document pipeline. Figures out of dense PDF templates, publication-ready reports out. | Manual preparation **−70%** |
+| Government of India funding for the architecture. Deployed. | **₹1,00,000** |
+
+### Forensic intelligence
+Cryptographically enforced · Drain3, Isolation Forest, DuckDB, Parquet, LLMs
+
+| Move | Result |
+| --- | --- |
+| Autonomous workflow. Log parsing, anomaly detection, threat identification. | **4×** evidence clusters |
+| Immutable evidence pipeline. Just-in-time tokens. Explainable calls. | Anomaly F1 **94%**. Analysis time **−55%** |
+
+### CrimeGPT
+Legal intelligence · Python, LangChain, Grounded RAG, OCR, vector database, cryptography
+
+| Move | Result |
+| --- | --- |
+| Unstructured evidence in. Grounded RAG and OCR. | **11** standardized statutory documents |
+| Cryptographic signatures and an event-sourced audit log. | Integrity and a full history on every document |
