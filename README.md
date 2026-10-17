@@ -135,3 +135,18 @@ Legal intelligence · Python, LangChain, Grounded RAG, OCR, vector database, cry
 | **LeetCode** | Knight | Max rating **2025** · top **2.24%** globally · **1100+** DSA problems |
 | **CodeChef** | 3 Star | Max rating **1410** |
 | **Codeforces** | Pupil | Max rating **1020** |
+
+## 07 · LOADOUT
+
+<p align="center">
+  <img src="assets/07-loadout.gif" alt="Stage 07. Skill loadout." width="100%">
+</p>
+
+| Slot | Gear |
+| --- | --- |
+| **Languages** | Python, C++, C, SQL, TypeScript, JavaScript |
+| **Web** | HTML5, CSS, React.js, Next.js, Flask, FastAPI, Node.js |
+| **AI** | PyTorch, Scikit-learn, OpenCV, NLP, LLMs, RAG, LangChain, Agentic AI, vector databases, GenAI |
+| **Data** | PostgreSQL, MongoDB, Redis, Cassandra, Neo4j, SQLite, Apache Spark, Hadoop |
+| **Systems** | Data structures, algorithms, OOP, DBMS, OS, LLD, HLD, computer networks, microservices, API design |
+| **Cloud** | AWS, Azure, Docker, Kubernetes, CI/CD, GitHub Actions, Linux, Grafana, Git, Postman, Cursor, Claude |
