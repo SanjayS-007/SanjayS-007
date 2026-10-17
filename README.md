@@ -50,3 +50,27 @@ Agentic AI and DevOps. B.E. Computer Science and Engineering at Chennai Institut
 | **Score** | Percent correct | Bayesian Knowledge Tracing |
 | **Drill** | The chapter on the paper | The weakest prerequisite |
 | **Who decides** | The language model | The math. Gemini only reads. |
+
+## 03 · FIELD RECORD
+
+<p align="center">
+  <img src="assets/03-work.gif" alt="Stage 03. Cognizant and Zoho Site24x7." width="100%">
+</p>
+
+### Cognizant Technology Solutions
+Agentic AI and DevOps Intern · Apr 2026 — Sep 2026
+
+| Move | Result |
+| --- | --- |
+| Multi-agent workflows on LangChain, LangGraph, RAG, LLMs, and LiteLLM. Routing, observability, telemetry. | LLM inference cost **−30%** |
+| Self-managed Azure platform. Pipelines, virtual machines, serverless Functions. CI/CD automated. | Deploy time **−45%**. Manual effort **−60%** |
+| AI services in Docker and Kubernetes. | Same runtime on every release |
+
+### Zoho Corporation, Site24x7
+Monitoring and DevOps Engineer Intern · Oct 2025 — Dec 2025
+
+| Move | Result |
+| --- | --- |
+| Python `.pyz` agent packages for distributed monitoring. | Release preparation **−35%** |
+| Profiled execution, telemetry, and metric collection. Cut redundant work. | Monitoring latency **−30%**. Customer compute **−25%** |
+| Execution-path debugging across heavy IT estates. | Diagnostic troubleshooting time **−40%** |
