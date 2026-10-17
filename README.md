@@ -150,3 +150,25 @@ Legal intelligence · Python, LangChain, Grounded RAG, OCR, vector database, cry
 | **Data** | PostgreSQL, MongoDB, Redis, Cassandra, Neo4j, SQLite, Apache Spark, Hadoop |
 | **Systems** | Data structures, algorithms, OOP, DBMS, OS, LLD, HLD, computer networks, microservices, API design |
 | **Cloud** | AWS, Azure, Docker, Kubernetes, CI/CD, GitHub Actions, Linux, Grafana, Git, Postman, Cursor, Claude |
+
+## 08 · BADGES
+
+<p align="center">
+  <img src="assets/08-badges.gif" alt="Stage 08. Certifications and field work." width="100%">
+</p>
+
+### Certified
+
+| Badge | Detail |
+| --- | --- |
+| **AWS Certified Cloud Practitioner** | Amazon Web Services |
+| **Cisco CCNA** | Introduction to Networking |
+| **NPTEL** | Data Science with Python · Elite – Silver |
+| **NPTEL** | Introduction to IoT and Digital Transformation |
+
+### On the ground
+
+| Role | What moved |
+| --- | --- |
+| **Organiser and Mentor, Hack Fusion Hackathon** | Scaled the CSE department hackathon to **1,000+** participants. Mar 2026. |
+| **DSA Bootcamp Instructor** | Free Data Structures and Algorithms for junior students across **5 months**. 2025. |
