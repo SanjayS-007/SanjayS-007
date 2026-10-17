@@ -123,3 +123,15 @@ Legal intelligence · Python, LangChain, Grounded RAG, OCR, vector database, cry
 | **CYBERHACKATHON v4.0** · Chennai Police Cyber Crime Cell | Finalist · Top 20 | 800+ teams |
 
 **₹7,30,000** from the five rooms that paid.
+
+## 06 · ARENA
+
+<p align="center">
+  <img src="assets/06-arena.gif" alt="Stage 06. LeetCode Knight, CodeChef 3 star, Codeforces Pupil." width="100%">
+</p>
+
+| Platform | Rank | Signal |
+| --- | --- | --- |
+| **LeetCode** | Knight | Max rating **2025** · top **2.24%** globally · **1100+** DSA problems |
+| **CodeChef** | 3 Star | Max rating **1410** |
+| **Codeforces** | Pupil | Max rating **1020** |
