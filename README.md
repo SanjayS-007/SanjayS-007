@@ -169,8 +169,4 @@ Unstructured evidence in. Structured legal intelligence out. The system auto-gen
 
 [sanjayspmprmuruga02@gmail.com](mailto:sanjayspmprmuruga02@gmail.com)
 
-<br>
-
-<img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/SanjayS-007/SANJAY-S/output/github-snake-dark.svg">
-
 </div>
